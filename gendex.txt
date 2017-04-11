@@ -1,0 +1,240 @@
+;; GedBrowser Version 1.0, 06/02/114 21:44:43 
+;;
+g001.html#I001|Jagarlapudi|Vidya Sankar /Jagarlapudi/|2 OCT 1966|Narasaraopet|||
+g002.html#I002|Pisupati|Jaya /Pisupati/|21 APR 1968|Guntur|||
+g003.html#I003|Jagarlapudi|Khyati /Jagarlapudi/|05 JUL 2005|Hyderabad|||
+g004.html#I004|Jagarlapudi|Venkata Dugra Prasad /Jagarlapudi/|28 SEP 1941|Enugupalem|11 Oct 2013|Hyderabad|
+g005.html#I005|Palaparti|Krishna Kumari /Palaparti/|14 AUG 1949||||
+g006.html#I006|Jagarlapudi|Geeta Bharati /Jagarlapudi/|16 APR 1972|Nellore|||
+g007.html#I007|Jagarlapudi|Usha Kiran /Jagarlapudi/|24 SEP 1974|Vijayawada|||
+g008.html#I008|Jagarlapudi|Gopala Krishna Sastry /Jagarlapudi/|1903||FEB 1981|Narasaraopet|
+g009.html#I009|Palaparti|Annapoornamma /Palaparti/|1910||1970|Narasaraopet|
+g010.html#I010|Jagarlapudi|Maruti Vara Prasada Rao /Jagarlapudi/|1939||||
+g011.html#I011|Jagarlapudi|Koteswara Sastry /Jagarlapudi/|1933||1986||
+g012.html#I012|Jagarlapudi|Venakta Subramanya Sastry /Jagarlapudi/|1948||||
+g013.html#I013|Palaparti|Lakshmi Narayana /Palaparti/|1926||11 NOV 1997|Hyderabad|
+g014.html#I014|Velamuri|Maha Lakshmamma /Velamuri/|30 JUN 1928||||
+g015.html#I015|Palaparti|Hanumayamma /Palaparti/|AUG 1946||||
+g016.html#I016|Palaparti|Sita Ravamma /Palaparti/|1952||||
+g017.html#I017|Palaparti|Vijaya Lakshmi /Palaparti/|1954||1 JUN 2001|Tirupati|
+g018.html#I018|Palaparti|Vara Lakshmi /Palaparti/|AUG 1956||||
+g019.html#I019|Palaparti|Satyavati /Palaparti/|7 SEP 1966|Gudur|||
+g020.html#I020|Palaparti|Sanjeeva Rao /Palaparti/|SEP 1959||||
+g021.html#I021|Palaparti|Hanumantha Rao /Palaparti/|11 JUN 1963||||
+g022.html#I022|Palaparti|Siva Rama Krishna /Palaparti/|17 FEB 1971|Venkatagiri|||
+g023.html#I023|Pisupati|Venkateswara Sarma /Pisupati/|10 AUG 1935|Vemavaram|25 AUG 2000|Guntur|
+g024.html#I024|Vedantam|Lalita Mahalakshmi /Vedantam/|JUL 1944|Vijayawada|||
+g025.html#I025|Pisupati|Narayana Rao /Pisupati/|1962||||
+g026.html#I026|Pisupati|Sita Rama Rao /Pisupati/|1964||||
+g027.html#I027|Pisupati|Lakshmana Rao /Pisupati/|1966||||
+g028.html#I028|Pisupati|Venkata Narayana /Pisupati/|||||
+g029.html#I029|Kanuru|Seshamma /Kanuru/|||JUL 1983||
+g030.html#I030|Vedantam|Venkateswarlu /Vedantam/|||||
+g031.html#I031|Sridhara|Sitaravamma /Sridhara/|||||
+g032.html#I032|Vedantam|Padmavati /Vedantam/|1947||||
+g033.html#I033|Vedantam|Subramanya Serma /Vedantam/|1949||||
+g034.html#I034|Pisupati|Sarojini /Pisupati/|1932||||
+g035.html#I035|Pisupati|Anasuyamma /Pisupati/|1930||||
+g036.html#I036|Pisupati|Hanumayamma /Pisupati/|1928||||
+g037.html#I037|Pisupati|Lakshmi Narayana /Pisupati/|1938||||
+g038.html#I038|Tangirala|Srinivas /Tangirala/|21 JUN 1968|Vellaturu|||
+g039.html#I039|Tangirala|Anish /Tangirala/|7 SEP 2000|Hyderabad|||
+g040.html#I040|Tangirala|Ashita /Tangirala/|20 SEP 2004|Hyderabad|||
+g041.html#I041|Pakala|Srinivasa Rao /Pakala/|12 MAR 1969||||
+g042.html#I042|Pakala|Induja /Pakala/|15 JAN 2005|Hyderabad|||
+g043.html#I043|Chinta|Indira /Chinta/|1955||||
+g044.html#I044|Pakala|Krishna Surya Narayana Sarma /Pakala/|1966||||
+g045.html#I045|Pakala|Aditya Sarma /Pakala/|1950||||
+g046.html#I046|Tangirala|Kameswara Vara Prasad /Tangirala/|1935||1 AUG 2004|Vijayawada|
+g047.html#I047|Vempati|Shailaja /Vempati/|1969||||
+g048.html#I048|Tangirala|Venkata Satya Narayana /Tangirala/|4 OCT 1966||||
+g049.html#I049|Tangirala|Sunita /Tangirala/|1964||||
+g050.html#I050|Tangirala|Lalita /Tangirala/|1962||||
+g051.html#I051|Yellepeddi|Shoba /Yellepeddi/|1966||||
+g052.html#I052|Yellepeddi|Sankara Sastry /Yellepeddi/|1938||||
+g053.html#I053|O|Vara Lakshmi /O/|1940||||
+g054.html#I054|Yellepeddi|Raghava /Yellepeddi/|1960||||
+g055.html#I055|Yellepeddi|Usha /Yellepeddi/|1963||||
+g056.html#I056|Yellepeddi|Srinivas /Yellepeddi/|1970||||
+g057.html#I057|Yellepeddi|Padmavati /Yellepeddi/|1972||||
+g058.html#I058|Tadepalli|Aparna /Tadepalli/|1975||||
+g059.html#I059|Tadepalli|Purushottama Sastry /Tadepalli/|1942||||
+g060.html#I060|O|Anuradha /O/|1968||||
+g061.html#I061|Pisupati|Srimanth /Pisupati/|FEB 1997||||
+g062.html#I062|Janapati|Sita Rama Sastry /Janapati/|1942||||
+g063.html#I063|Janapati|Venkata Rama Krishna Prasad /Janapati/|1964||||
+g064.html#I064|Janapati|Rama Lakshmi /Janapati/|1962||||
+g065.html#I065|Palaparti|Praveen /Palaparti/|1986|Hyderabad|||
+g066.html#I066|Perimbeti|Krishna Murthy /Perimbeti/|1948||||
+g067.html#I067|Perimbeti|Naveen Kumar /Perimbeti/|15 JUL 1970|Venkatagiri|||
+g068.html#I068|Perimbeti|Vakula Devi /Perimbeti/|17 APR 1972|Gudur|||
+g069.html#I069|Perimbeti|Gopinath /Perimbeti/|1950||||
+g070.html#I070|Perimbeti|Bharath /Perimbeti/|1974|Narasaraopet|||
+g071.html#I071|Perimbeti|Harika /Perimbeti/|1976|Narasaraopet|||
+g072.html#I072|Pillutla|Sri Hari Sharma /Pillutla/|1950||||
+g073.html#I073|Pillutla|Phani /Pillutla/|1980|Repalle|||
+g074.html#I074|Pillutla|Bhargava /Pillutla/|1982|Repalle|||
+g075.html#I075|Palaparti|Madhuri /Palaparti/|1996|Hyderabad|||
+g076.html#I076|Palaparti|Mallika /Palaparti/|3 OCT 1999|Hyderabad|||
+g077.html#I077|Vangaviti|Hari Babu /Vangaviti/|4 SEP 1957||||
+g078.html#I078|Vangaviti|Lakshmi /Vangaviti/|26 APR 1985|Narasaraopet|||
+g079.html#I079|Vangaviti|Swetha /Vangaviti/|15 JUN 1988|Narasaraopet|||
+g080.html#I080|Yenamandra|Alivelumanga /Yenamandra/|10 JUL 1977|Narasaraopet|||
+g081.html#I081|Palaparti|Manoj /Palaparti/|12 MAY 2000|Narasaraopet|||
+g082.html#I082|Kuppa|Nirmala /Kuppa/|1966||||
+g083.html#I083|Janapati|Tarun /Janapati/|1999|Hyderabad|||
+g084.html#I084|Janapati|Lasya /Janapati/|2002|Hyderabad|||
+g085.html#I085|Janapati|Rama Krishnaiah /Janapati/|||||
+g086.html#I086|Palaparti|Subbamma /Palaparti/|1915||1995||
+g087.html#I087|Janapati|Narasimha Murthy /Janapati/|1937||||
+g088.html#I088|Janapati|Suvarchala /Janapati/|1944||||
+g089.html#I089|Janapati|Sanjeeva Rao /Janapati/|1947||||
+g090.html#I090|Janapati|Satyam /Janapati/|1950||||
+g091.html#I091|Kavata|Sarada /Kavata/|1940||||
+g092.html#I092|Janapati|Shiva Kumar /Janapati/|1959||||
+g093.html#I093|Janapati|Durga /Janapati/|1961||1985||
+g094.html#I094|Palaparti|Prasanth /Palaparti/|1988|Hyderabad|||
+g095.html#I095|Janapati|Rama Krishna /Janapati/|1963||||
+g096.html#I096|Janapati|Vani /Janapati/|1965||||
+g097.html#I097|Mellacheruvu|Satyanarayana /Mellacheruvu/|1940||||
+g098.html#I098|Mellacheruvu|Subrahmanyam /Mellacheruvu/|1968||||
+g099.html#I099|O|Meena /O/|1974||||
+g100.html#I100|Perimbeti|Lahari /Perimbeti/|2000||||
+g101.html#I101|Mellacheruvu|Shoba /Mellacheruvu/|1952||||
+g102.html#I102|Jagarlapudi|Venkata Subba Rama Mohan /Jagarlapudi/|1972||||
+g103.html#I103|Bangaluru|Sujata /Bangaluru/|1975||||
+g104.html#I104|Jagarlapudi|Harita /Jagarlapudi/|2001|Venkatagiri|||
+g105.html#I105|Jagarlapudi|Kamala /Jagarlapudi/|1970||||
+g106.html#I106|Jagarlapudi|Vanaja /Jagarlapudi/|1974||||
+g107.html#I107|Mellacheruvu|Satya Murthy /Mellacheruvu/|1960||||
+g108.html#I108|Mellacheruvu|Radha Krishna Kishore /Mellacheruvu/|1990|Venkatagiri|||
+g109.html#I109|Mellacheruvu|Radha Mahuri /Mellacheruvu/|1994|Venkatagiri|||
+g110.html#I110|Mellacheruvu|Bhramaramba /Mellacheruvu/|1944||||
+g111.html#I111|Jagarlapudi|Vidya Annapoorna /Jagarlapudi/|1966|Narasaraopet|||
+g112.html#I112|Jagarlapudi|Sridevi /Jagarlapudi/|1968|Narasaraopet|1988|Narasaraopet|
+g113.html#I113|Jagarlapudi|Rama Gopal /Jagarlapudi/|1970|Narasaraopet|||
+g114.html#I114|Jagarlapudi|Latha /Jagarlapudi/|1972|Narasaraopet|||
+g115.html#I115|Jagarlapudi|Prasuna /Jagarlapudi/|1974|Narasaraopet|||
+g116.html#I116|Boddupalli|Lalita /Boddupalli/|1976||||
+g117.html#I117|Kota|Shakuntala /Kota/|1938||||
+g118.html#I118|Burra|Sailaja /Burra/|1965||||
+g119.html#I119|Jagarlapudi|Hema Latha /Jagarlapudi/|1955||||
+g120.html#I120|Jagarlapudi|Ramana Rao /Jagarlapudi/|1957||||
+g121.html#I121|Jagarlapudi|Sri Rama Murthy /Jagarlapudi/|1960||||
+g122.html#I122|Jagarlapudi|Bala Anjaneya Prasad /Jagarlapudi/|1962||||
+g123.html#I123|Jagarlapudi|Shiva Subramanyam /Jagarlapudi/|1964||||
+g124.html#I124|Jagarlapudi|Vara Lakshmi /Jagarlapudi/|1966||||
+g125.html#I125|Gundlapudi|Srinivas Kumar /Gundlapudi/|1970||||
+g126.html#I126|Gundlapudi|Hari Vishnu Sahasra /Gundlapudi/|1994||||
+g127.html#I127|Mellacheruvu|Durgayya /Mellacheruvu/|||1995||
+g128.html#I128|O|Annapoornamma /O/|||||
+g129.html#I129|Mellacheruvu|Achhamma /Mellacheruvu/|1938||||
+g130.html#I130|Mellacheruvu|Subba Rao /Mellacheruvu/|1942||||
+g131.html#I131|Mellacheruvu|Anasuya /Mellacheruvu/|1946||||
+g132.html#I132|Mellacheruvu|Anantha Lakshmi /Mellacheruvu/|1950||||
+g133.html#I133|Mellacheruvu|Sita /Mellacheruvu/|1952||||
+g134.html#I134|Kappagantu|Anjaneya Sarma /Kappagantu/|1944||||
+g135.html#I135|Kappagantu|Satyavati /Kappagantu/|1965||||
+g136.html#I136|Tangirala|Jagannatham /Tangirala/|1963||||
+g137.html#I137|Tangirala|Srinivasa Rao /Tangirala/|1937||2000||
+g138.html#I138|Jagarlapudi|Vardhanamma /Jagarlapudi/|1940||1995||
+g139.html#I139|Tangirala|Umakanth /Tangirala/|1965||||
+g140.html#I140|Vangaviti|Prasada Sarma /Vangaviti/|1948||||
+g141.html#I141|Vangaviti|Anjana /Vangaviti/|1972||||
+g142.html#I142|Vangaviti|Sai /Vangaviti/|1976||||
+g143.html#I143|Velamuri|Lakshmikantam /Velamuri/|1958||||
+g144.html#I144|Velamuri|Subramanyam /Velamuri/|1960||||
+g145.html#I145|Velamuri|Siva Lakshmi Narayana /Velamuri/|1963||||
+g146.html#I146|Mellacheruvu|Naga Lakshmi /Mellacheruvu/|1972||||
+g147.html#I147|Mellacheruvu|Parvati /Mellacheruvu/|1974||||
+g148.html#I148|Kavata|Samba Murthy /Kavata/|||||
+g149.html#I149|Madali|Krishna Kumari /Madali/|1962||||
+g150.html#I150|Janapati|Dilip /Janapati/|1985||||
+g151.html#I151|Mellacheruvu|Radha /Mellacheruvu/|1955||||
+g152.html#I152|Janapati|RamaKrishna /Janapati/|1975||||
+g153.html#I153|Janapati|Sri Lakshmi /Janapati/|1978||||
+g154.html#I154|Gollapudi|Swarajya Lakshmi /Gollapudi/|1950||||
+g155.html#I155|Janapati|Kamala /Janapati/|1972||||
+g156.html#I156|Tangirala|Neha /Tangirala/|1999|Tenali|||
+g157.html#I157|Tangirala|Sundari /Tangirala/|1960||||
+g158.html#I158|Jagarlapudi|Veera Raghavamma /Jagarlapudi/|||||
+g159.html#I159|Palaparti|Hanumanthayya /Palaparti/|||||
+g160.html#I160|O|MahaLaxmamma /O/|||||
+g161.html#I161|O|Ramani /O/|1969||||
+g162.html#I162|Kuppa|Sudha /Kuppa/|1940||||
+g163.html#I163|Palaparti|Sanjeeva Rayudu /Palaparti/|||||
+g164.html#I164|Madduri|Srinivasa Rao /Madduri/|1963||||
+g165.html#I165|Madduri|Maruti /Madduri/|1996||||
+g166.html#I166|Madduri|Manoj /Madduri/|1999||||
+g167.html#I167|Mellacheruvu|Kumari /Mellacheruvu/|1970||||
+g168.html#I168|Paturi|Vijay Kumar /Paturi/|1959||||
+g169.html#I169|Paturi|Harsha /Paturi/|1990||||
+g170.html#I170|Guduri|Siva Rama Prasad /Guduri/|1960||||
+g171.html#I171|Guduri|Dheeru /Guduri/|1995||||
+g172.html#I172|Guduri|Vibhav /Guduri/|1998||||
+g173.html#I173|Jagarlapudi|Koteswar /Jagarlapudi/|||||
+g174.html#I174|O|Subbamma /O/|||||
+g175.html#I175|Jagarlapudi|Krishneswar /Jagarlapudi/|||||
+g176.html#I176|O|MahaLaxmama /O/|||||
+g177.html#I177|Velamuri|Krishna Murthy /Velamuri/|1935||||
+g178.html#I178|Velamuri|Lalita /Velamuri/|1965||||
+g179.html#I179|Velamuri|Venkateswarlu /Velamuri/|1972||||
+g180.html#I180|Velamuri|Venkatappayya /Velamuri/|||||
+g181.html#I181|Palaparti|Venkayamma /Palaparti/|||||
+g182.html#I182|Mellacheruvu|Krishna Murthy /Mellacheruvu/|||||
+g183.html#I183|Potikuchi|Adi Seshamma /Potikuchi/|||||
+g184.html#I184|Gundlapudi|Kushali Vidya Vasini /Gundlapudi/|1996||||
+g185.html#I185|Janapati|RamKrishna /Janapati/|1975||||
+g186.html#I186|Janapati|Kishore /Janapati/|1977||||
+g187.html#I187|Nittala|Sri Rama Murthy /Nittala/|1957||||
+g188.html#I188|Tangirala|Jaya Ram /Tangirala/|1968||||
+g189.html#I189|Palaparti|Satya Narayana /Palaparti/|1920||||
+g190.html#I190|Ponugupati|Adi Lakshmamma /Ponugupati/|||||
+g191.html#I191|Kota|Chandra Sekhar /Kota/|1970||||
+g192.html#I192|Kota|Dinesh /Kota/|2003|Hyderabad|||
+g193.html#I193|Mellacheruvu|Bhargav /Mellacheruvu/|2000|Narasaraopet|||
+g194.html#I194|Mellacheruvu|Santosh /Mellacheruvu/|2002|Narasaraopet|||
+g195.html#I195|Challa|Ravi Kumar /Challa/|1970||||
+g196.html#I196|Velamuri|Siva Sankara Sastry /Velamuri/|1950||||
+g197.html#I197|Velamuri|Indira /Velamuri/|1972||||
+g198.html#I198|Velamuri|Bindu /Velamuri/|1974||||
+g199.html#I199|Velamuri|Sirisha /Velamuri/|1976||||
+g200.html#I200|Vangaviti|Vijaya Lakshmi /Vangaviti/|1970||||
+g201.html#I201|Vangaviti|Phani Kumari /Vangaviti/|1974||||
+g202.html#I202|Kappagantu|Padmavati /Kappagantu/|1967||||
+g203.html#I203|Kappagantu|Pavan /Kappagantu/|1970||||
+g204.html#I204|O|Lakshmi Prasanna /O/|1945||||
+g205.html#I205|Mellacheruvu|Suresh /Mellacheruvu/|1970||||
+g206.html#I206|Mellacheruvu|Sai Bhavani /Mellacheruvu/|1972||||
+g207.html#I207|Mellacheruvu|Lakshmi Kameswari /Mellacheruvu/|1974||||
+g208.html#I208|Hari|Subramanyam /Hari/|1975||||
+g209.html#I209|Hari|Naga Lakshmi /Hari/|1977||||
+g210.html#I210|Hari|Vara Lakshmi /Hari/|1979||||
+g211.html#I211|Hari|Dakshina Murthy /Hari/|1950||||
+g212.html#I212|O|Syamala /O/|1960||||
+g213.html#I213|Jagarlapudi|Pavan /Jagarlapudi/|1980||||
+g214.html#I214|Jagarlapudi|Sailaja /Jagarlapudi/|1983||||
+g215.html#I215|Jagarlapudi|Annapoorna /Jagarlapudi/|1985||||
+g216.html#I216|O|Rama Lakshmi /O/|1962||||
+g217.html#I217|Jagarlapudi|Kalpana /Jagarlapudi/|1985||||
+g218.html#I218|Jagarlapudi|Vasantha Kumari /Jagarlapudi/|1988||||
+g219.html#I219|O|Girija Kumari /O/|1965||||
+g220.html#I220|Jagarlapudi|Pawan /Jagarlapudi/|1988||||
+g221.html#I221|Jagarlapudi|Suvarchala /Jagarlapudi/|1990||||
+g222.html#I222|Jagarlapudi|Prasanna Lakshmi Priyamvada /Jagarlapudi/|1992||||
+g223.html#I223|Jagarlapudi|Anil Kumar /Jagarlapudi/|1998||||
+g224.html#I224|Jagarlapudi|Kaushik Sastry /Jagarlapudi/|2000||||
+g225.html#I225|Mellacheruvu|Anjaneya Sastry /Mellacheruvu/|1962||||
+g226.html#I226|Tangirala|Padma /Tangirala/|1978||||
+g227.html#I227|O|Sulakshan /O/|1979||||
+g228.html#I228|Vangaviti|Pitchavadhanulu /Vangaviti/|||||
+g229.html#I229|Chintalapati|Swarajya Lakshmi /Chintalapati/|||||
+g230.html#I230|Perimbeti|Radha Krishnayya /Perimbeti/|||||
+g231.html#I231|O|Rajamma /O/|||||
+g232.html#I232|Perimbeti|Sundaresan /Perimbeti/|||||
+g233.html#I233|O|Lakshmamma /O/|||||
+g234.html#I234|O|Nageswara Rao /O/|1959||||
+g235.html#I235|Nimmagadda|Kameswari /Nimmagadda/|1979||||
+g236.html#I236|Pakala|Aravinda /Pakala/|1998||||
+g237.html#I237|Jagarlapudi|Jaykar /Jagarlapudi/|11 MAR 2010|Secunderabad|||
+;; This file has not been truncated.
